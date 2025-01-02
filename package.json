@@ -1,0 +1,16 @@
+{
+      "name": "proximity-chat",
+      "version": "1.0.0",
+      "description": "Chrome extension for real-time, URL-based proximity chat.",
+      "scripts": {
+            "dev": "vite",
+            "build": "vite build",
+            "start": "node server.js"
+      },
+      "dependencies": {
+            "ws": "^8.13.0"
+      },
+      "devDependencies": {
+            "vite": "^4.5.5"
+      }
+}
